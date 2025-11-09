@@ -1,0 +1,3 @@
+git is distributed version control system
+we have commited first commit
+the code executed is wrong
