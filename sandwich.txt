@@ -1,3 +1,4 @@
 hello this is a file that is in master branch but we can switch to other branches such as featrure
-s such as featrure
+s such as but 
+only the great minds uses featrure
 
