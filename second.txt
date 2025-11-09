@@ -1,2 +1,2 @@
 we can merge the master with feature branch
-checkout
+checkout the changes
