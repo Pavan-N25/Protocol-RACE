@@ -1,0 +1,9 @@
+# Protocol-RACE configuration
+policy:
+  strict: true
+detector:
+  scored_threshold: 0.5
+  heuristics:
+    injection_keyword: 2.0
+    sensitive_mention: 1.5
+    jailbreak_word: 2.5
